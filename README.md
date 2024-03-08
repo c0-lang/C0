@@ -19,8 +19,8 @@
 
 ### Community:
 
-- **Issues:** [https://github.com/c0-lang/C0/issues](link)
-- **Wiki:** [https://github.com/c0-lang/C0/wiki](link)
+- **Issues:** [link](https://github.com/c0-lang/C0/issues)
+- **Wiki:** [link](https://github.com/c0-lang/C0/wiki)
 
 ### License:
 
